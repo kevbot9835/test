@@ -1,2 +1,1 @@
-this is my first project
-this is a second line 
+life is great !
